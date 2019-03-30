@@ -30,7 +30,7 @@ To push a new release to Maven Central:
 
 14. Scroll to the bottom and find the bundle you just uploaded. Select it.
 
-15. Close the repository. Wait.
+15. Close the repository. (This may happen automatically.) Wait.
 
 16. Release the repository.
 
